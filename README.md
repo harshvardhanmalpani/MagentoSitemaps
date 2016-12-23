@@ -1,0 +1,2 @@
+# MagentoSitemaps
+Sitemap for Magento
